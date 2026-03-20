@@ -1,0 +1,30 @@
+body{
+    background-image: url('black.jpg');
+}
+
+#keret{
+    width: 1000px;
+    margin: auto;
+}
+
+#header{
+    min-width: 650px;
+    max-width: 1000px;
+    background-image: url('panorama.jpg');
+    height: 200px;
+}
+
+#cimer{
+    float: right;
+}
+
+#bal{
+    width: 450px;
+    background-color: #5b9cea;
+}
+
+#jobb{
+    width: 450px;
+    background-color: #5b9cea;
+    float: right;
+}
