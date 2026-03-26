@@ -1,5 +1,5 @@
 body{
-    background-image: url('black.jpg');
+    background-image: url('back.jpg');
 }
 
 #keret{
@@ -20,11 +20,28 @@ body{
 
 #bal{
     width: 450px;
+    padding: 50px 10px 30px 10px;
+    font-size: large;
     background-color: #5b9cea;
+    float: left;
 }
 
 #jobb{
     width: 450px;
+    padding: 30px 10px 50px 10px;
+    font-size: large;
     background-color: #5b9cea;
     float: right;
+}
+
+table{
+    background-color: #b0d1f1;
+    margin: auto;
+    font-size: large;
+    text-align: left;
+}
+
+th{
+    background-color: #b0d1f1 ;
+    text-align: center;
 }
